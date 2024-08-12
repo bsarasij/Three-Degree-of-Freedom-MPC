@@ -21,5 +21,23 @@ The 3DoF is obtained by a set of filters, the first one being for setpoint track
 
 For the 3rd degree we use a set of two Kalman filters that perform state estimation while decoupling the effects of measured and unmeasured disturbances on the output.
 <p align="center">
-<img src="https://github.com/user-attachments/assets/22da636d-8d91-478c-b5a1-d3f46e56383a">
+<img src="https://github.com/user-attachments/assets/8d318034-0fe3-4de6-bbe4-b94f9d2b3f96">
 </p>
+
+<br>
+<br>
+
+## Application demonstrated using a microalgae photobioreactor
+<br>
+<br>
+There is a semi-industrial raceway photobioreactor facility located at the IFAPA Research Center near the UAL campus in Andalusia, Spain. They perform combined wastewater treatment and microalgae biomass production for addressing the key challgenge of greenhouse gas management in a sustainable manner. The idea is to regulate the $CO_2$ inflow into the reactor to maintain the pH at the optimal value of 8 in presence of changing measured and unmeasured disturbances such as Temperature (measured), Radiation (measured) , Airflow (unmeasured), Dilution(unmeasured).
+<br>
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1379b1b3-4a89-45f2-b2a5-9b0914d698fc">
+</p>
+
+
+
+
+
